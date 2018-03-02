@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 141.7 141.7" style="enable-background:new 0 0 141.7 141.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C3E5E0;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#91CB79;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Grown_Up_Games">
+	<path class="st0" d="M122.3,135H17.1c-6.6,0-12-5.4-12-12V17.8c0-6.6,5.4-12,12-12h105.3c6.6,0,12,5.4,12,12V123
+		C134.3,129.6,128.9,135,122.3,135z"/>
+	<g>
+		<line class="st1" x1="42.9" y1="48.5" x2="99.2" y2="48.5"/>
+		<g>
+			<line class="st2" x1="30.9" y1="7.4" x2="34.9" y2="13.7"/>
+			<line class="st2" x1="45" y1="31.7" x2="47.2" y2="35.3"/>
+			<circle class="st3" cx="42.7" cy="27.6" r="4.9"/>
+			<circle class="st3" cx="38.2" cy="18.3" r="4.9"/>
+		</g>
+		<g>
+			<line class="st1" x1="45.6" y1="126.4" x2="94.9" y2="126.4"/>
+			<line class="st1" x1="71.4" y1="78.2" x2="71.4" y2="125.7"/>
+		</g>
+		<path class="st1" d="M71.1,24.1h44.2c2.3,0,3.5,2.7,2,4.4L96.1,52.3l-25,28.2L46,52.3L24.2,27.7c-1.2-1.4-0.2-3.6,1.6-3.6H71.1z"
+			/>
+	</g>
+</g>
+</svg>
