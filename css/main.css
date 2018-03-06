@@ -1,0 +1,100 @@
+main {text-align: center;}
+
+.icon {
+  width: 48%;
+  display: inline-block;
+}
+
+.icon img {
+  display: block;
+  width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.icon:hover img{
+ box-shadow: 10px 10px 5px grey;
+}
+
+.image
+{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.left {
+  position: fixed;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: #fff;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.icon:hover .left
+ {
+  width: 50%;
+  height: 100%;
+  left:0;
+
+}
+
+.textL {
+  color: #EDB8D5;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.right
+{
+  position: fixed;
+  bottom: 0;
+  right: 100%;
+  left: 0;
+  background-color: #fff;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+  float:right;
+}
+
+.icon:hover .right
+ {
+  width: 50%;
+  height: 100%;
+  right:100%;
+}
+
+.textR {
+  color: #83C889;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.topRow
+{
+  clear:both;
+}
+
+.secondRow
+{
+  clear:both;
+}
